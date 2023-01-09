@@ -41,10 +41,10 @@ const Home = () => {
       <div className="container">
         <div className="header">
           <div className="header-title">
-            <h1>Captions, Descriptions and Titles For Your Videos</h1>
+            <h1>Video title generator</h1>
           </div>
           <div className="header-subtitle">
-            <h2>Descriptions Matter!</h2>
+            <h2>Titles Matter!</h2>
           </div>
         </div>
         <div className="prompt-container">
